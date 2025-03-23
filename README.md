@@ -1,10 +1,11 @@
 # Prouct Comparision 
 
-- Frontend created to compare the different products.
-- Sorting Functionality to sort data according to Price and Discount Percentage
-- Ant Design used for creating a clean frontend
-
+- Created a frontend using Ant Design to compare the different products.
+- Sorting Functionality to sort data according to Price and Discount Percentage.
+- Product Add and Remove Functionality to compare different products
 - Deployed Website: https://kyc-hub.onrender.com/
 
-Demo Video:
-https://github.com/KGan31/kyc_hub/blob/main/assets/Product%20Compare%20-%20Personal%20-%20Microsoft_%20Edge%202025-03-23%2023-33-57.mp4
+# Demo
+https://github.com/user-attachments/assets/30655bd5-f727-41a3-a798-cf3b591fb0a2
+
+
