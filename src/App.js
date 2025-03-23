@@ -94,7 +94,7 @@ export default function App() {
           }}>
           <Routes>
             <Route path="/" element={<Home addToCompare={addToCompare} compareList={compareList} />} />
-            <Route path="/compare" element={<Compare compareList={compareList} removeFromCompare={removeFromCompare}/>} />
+            <Route path="/compare" element={<Compare compareList={compareList} removeFromCompare={removeFromCompare} addToCompare={addToCompare}/>} />
           </Routes>
         </Content>
       </Layout>

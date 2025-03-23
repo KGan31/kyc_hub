@@ -16,7 +16,7 @@ const Home = ({ addToCompare , compareList}) => {
 
   const columns = [
     { title: "Image", dataIndex: "thumbnail", key: "thumbnail", render: (img) => <Image width={50} src={img} /> },
-    { title: "Title", dataIndex: "title", key: "title" },
+    { title: "Title", dataIndex: "title", key: "title"},
     { title: "Description", dataIndex: "description", key: "description", ellipsis: true },
     { title: "Price ($)", dataIndex: "price", key: "price", defaultSortOrder: 'descend',
       sorter: (a, b) => a.price - b.price},
